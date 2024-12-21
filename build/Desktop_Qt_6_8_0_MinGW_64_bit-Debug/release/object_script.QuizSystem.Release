@@ -1,0 +1,13 @@
+release/Dashboard.o
+release/Notifications.o
+release/QuizManagement.o
+release/ResultsManagement.o
+release/UserManagement.o
+release/main.o
+release/widget.o
+release/moc_Dashboard.o
+release/moc_Notifications.o
+release/moc_QuizManagement.o
+release/moc_ResultsManagement.o
+release/moc_UserManagement.o
+release/moc_widget.o

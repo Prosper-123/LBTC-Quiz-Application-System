@@ -1,0 +1,13 @@
+debug/Dashboard.o
+debug/Notifications.o
+debug/QuizManagement.o
+debug/ResultsManagement.o
+debug/UserManagement.o
+debug/main.o
+debug/widget.o
+debug/moc_Dashboard.o
+debug/moc_Notifications.o
+debug/moc_QuizManagement.o
+debug/moc_ResultsManagement.o
+debug/moc_UserManagement.o
+debug/moc_widget.o
